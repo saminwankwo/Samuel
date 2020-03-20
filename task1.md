@@ -1,4 +1,4 @@
-full name: Nwankwo Samuel
+Full name: Nwankwo Samuel
 Email: nwankwosami@gmail.com
 slack username: samuel
 Tracks: mobile, Backend
