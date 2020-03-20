@@ -1,0 +1,5 @@
+full name: Nwankwo Samuel
+Email: nwankwosami@gmail.com
+slack username: samuel
+Tracks: mobile, Backend
+Courses Registered: PHP, Java, Kotlin
